@@ -10,5 +10,5 @@ Evaluasi media penjualan mencakup analisis preferensi pelanggan terhadap toko fi
 
 Dalam konteks kampanye promosi, dilakukan analisis respons terhadap setiap kampanye dengan menitikberatkan pada tingkat penerimaan dan dampaknya terhadap perilaku pembelian. Kampanye promosi ke-4 menonjol sebagai yang paling berhasil, tetapi hasil menunjukkan potensi perbaikan dalam strategi pemasaran, terutama pada penggunaan diskon.
 
-## Kesimpulan
+## Hasil
 Secara keseluruhan, penelitian ini memberikan pemahaman mendalam tentang preferensi dan perilaku belanja pelanggan di Supermarket XYZ. Implikasi penelitian ini mencakup rekomendasi strategis untuk meningkatkan pengalaman pelanggan, merinci kebijakan pemasaran yang lebih terfokus, serta memberikan landasan bagi perbaikan dalam pelaksanaan kampanye promosi di masa depan.

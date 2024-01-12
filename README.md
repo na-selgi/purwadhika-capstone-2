@@ -13,5 +13,5 @@ Dalam konteks kampanye promosi, dilakukan analisis respons terhadap setiap kampa
 ## Hasil
 Secara keseluruhan, penelitian ini memberikan pemahaman mendalam tentang preferensi dan perilaku belanja pelanggan di Supermarket XYZ. Implikasi penelitian ini mencakup rekomendasi strategis untuk meningkatkan pengalaman pelanggan, merinci kebijakan pemasaran yang lebih terfokus, serta memberikan landasan bagi perbaikan dalam pelaksanaan kampanye promosi di masa depan.
 
-### Link Dashboard Tableu
+## Link Dashboard Tableu
 https://public.tableau.com/views/Capstone2_17048995931540/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
